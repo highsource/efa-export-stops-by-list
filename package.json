@@ -1,0 +1,13 @@
+{
+	"name":         "efa-export-stops-by-list",
+	"version":      "0.0.1",
+	"main":         "index.js",
+	"files":        ["index.js"],
+	"engines" :     {"node": ">=6"},
+	"dependencies": {
+		"jsonix": "^2.4.1",
+		"got": "^6.3",
+		"csv": "^1.1.1",
+		"iconv-lite": "^0.4.15"
+	}
+}
